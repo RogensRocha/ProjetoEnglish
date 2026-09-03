@@ -61,6 +61,4 @@ Abra [http://localhost:3000](http://localhost:3000) no seu navegador para acessa
 
 ---
 
-## 🔒 Segurança
 
-Arquivos de banco de dados locais (`dev.db`), logs e arquivos de ambiente (`.env`, `.env.local`) são estritamente ignorados pelo `.gitignore` e nunca são versionados no repositório.
